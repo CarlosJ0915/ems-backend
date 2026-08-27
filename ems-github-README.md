@@ -13,6 +13,16 @@ A robust REST API backend for managing employees and departments, built with **S
 - ✅ DTO-based API contracts
 - ✅ Clean architecture with layered design
 
+Java Spring Boot REST API
+
+## 🚀 Live Demo
+**Frontend:** [https://ems-frontend-tawny-pi.vercel.app](https://ems-frontend-tawny-pi.vercel.app)
+
+## Features
+- REST API with 12 endpoints
+...
+
+
 ## 🏗️ Project Architecture
 
 ```
